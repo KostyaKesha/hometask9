@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> cats = new ArrayList();
+        List<String> cats = new ArrayList<String>();
         // ∆или три кот€ры
         cats.add("Barsik");
         cats.add("Murzik");
